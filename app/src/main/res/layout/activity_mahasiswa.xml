@@ -7,7 +7,7 @@
     tools:context=".CRUDDosen">
 
     <EditText
-        android:id="@+id/NamaDsn"
+        android:id="@+id/txtNama"
         android:layout_width="250dp"
         android:layout_height="45dp"
         android:ems="10"
@@ -44,7 +44,7 @@
         app:layout_constraintVertical_bias="0.06" />
 
     <EditText
-        android:id="@+id/nidn"
+        android:id="@+id/txtNim"
         android:layout_width="250dp"
         android:layout_height="45dp"
         android:layout_marginBottom="536dp"
@@ -70,7 +70,7 @@
         app:layout_constraintVertical_bias="0.078" />
 
     <EditText
-        android:id="@+id/alamat"
+        android:id="@+id/txtAlamat"
         android:layout_width="250dp"
         android:layout_height="45dp"
         android:layout_marginBottom="476dp"
@@ -97,7 +97,7 @@
 
 
     <EditText
-        android:id="@+id/email"
+        android:id="@+id/txtEmail"
         android:layout_width="250dp"
         android:layout_height="45dp"
         android:layout_marginBottom="420dp"
@@ -124,7 +124,7 @@
         app:layout_constraintVertical_bias="1.0" />
 
     <EditText
-        android:id="@+id/foto"
+        android:id="@+id/ImgMhs"
         android:layout_width="170dp"
         android:layout_height="46dp"
         android:layout_marginBottom="352dp"
